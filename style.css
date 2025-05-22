@@ -1,6 +1,6 @@
 
 body{
-	background-color: #84B59F;
+	background-color: #BDE0FE;
 }
 .topnav {
    background-color: #333333;
@@ -17,12 +17,12 @@ body{
 }
 
 .topnav a:hover {
-   background-color: #DDDDDD;
+   background-color: #7BAFD4;
    color: black;
 }
 
 .topnav a.active {
-   background-color: #04AA6D;
+   background-color: #CDB4DB;
    color: white;
 }
 <div class="topnav">
